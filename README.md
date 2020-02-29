@@ -1,1 +1,1 @@
-# imaz_app
+# imaze_app
